@@ -12,6 +12,17 @@
 		9657B6C31CF6CAAB00B1EFE0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9657B6C11CF6CAAB00B1EFE0 /* Main.storyboard */; };
 		9657B6C51CF6CAAB00B1EFE0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9657B6C41CF6CAAB00B1EFE0 /* Assets.xcassets */; };
 		9657B6C81CF6CAAB00B1EFE0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9657B6C61CF6CAAB00B1EFE0 /* LaunchScreen.storyboard */; };
+		9657B6D01CF6E8D000B1EFE0 /* pug.png in Resources */ = {isa = PBXBuildFile; fileRef = 9657B6CF1CF6E8D000B1EFE0 /* pug.png */; };
+		9657B6DC1CF6EBD500B1EFE0 /* American Shorthair.png in Resources */ = {isa = PBXBuildFile; fileRef = 9657B6D21CF6EBD500B1EFE0 /* American Shorthair.png */; };
+		9657B6DD1CF6EBD500B1EFE0 /* Chihuahua.png in Resources */ = {isa = PBXBuildFile; fileRef = 9657B6D31CF6EBD500B1EFE0 /* Chihuahua.png */; };
+		9657B6DE1CF6EBD500B1EFE0 /* Corgi.png in Resources */ = {isa = PBXBuildFile; fileRef = 9657B6D41CF6EBD500B1EFE0 /* Corgi.png */; };
+		9657B6DF1CF6EBD500B1EFE0 /* Maltese.png in Resources */ = {isa = PBXBuildFile; fileRef = 9657B6D51CF6EBD500B1EFE0 /* Maltese.png */; };
+		9657B6E01CF6EBD500B1EFE0 /* Mikeneko.png in Resources */ = {isa = PBXBuildFile; fileRef = 9657B6D61CF6EBD500B1EFE0 /* Mikeneko.png */; };
+		9657B6E11CF6EBD500B1EFE0 /* Miniature Dachshund.png in Resources */ = {isa = PBXBuildFile; fileRef = 9657B6D71CF6EBD500B1EFE0 /* Miniature Dachshund.png */; };
+		9657B6E21CF6EBD500B1EFE0 /* Munchkin.png in Resources */ = {isa = PBXBuildFile; fileRef = 9657B6D81CF6EBD500B1EFE0 /* Munchkin.png */; };
+		9657B6E31CF6EBD500B1EFE0 /* Persian.png in Resources */ = {isa = PBXBuildFile; fileRef = 9657B6D91CF6EBD500B1EFE0 /* Persian.png */; };
+		9657B6E41CF6EBD500B1EFE0 /* Pug.png in Resources */ = {isa = PBXBuildFile; fileRef = 9657B6DA1CF6EBD500B1EFE0 /* Pug.png */; };
+		9657B6E51CF6EBD500B1EFE0 /* Russian Blue.png in Resources */ = {isa = PBXBuildFile; fileRef = 9657B6DB1CF6EBD500B1EFE0 /* Russian Blue.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +33,17 @@
 		9657B6C41CF6CAAB00B1EFE0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9657B6C71CF6CAAB00B1EFE0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9657B6C91CF6CAAB00B1EFE0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9657B6CF1CF6E8D000B1EFE0 /* pug.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = pug.png; path = ../pug.png; sourceTree = "<group>"; };
+		9657B6D21CF6EBD500B1EFE0 /* American Shorthair.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "American Shorthair.png"; sourceTree = "<group>"; };
+		9657B6D31CF6EBD500B1EFE0 /* Chihuahua.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Chihuahua.png; sourceTree = "<group>"; };
+		9657B6D41CF6EBD500B1EFE0 /* Corgi.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Corgi.png; sourceTree = "<group>"; };
+		9657B6D51CF6EBD500B1EFE0 /* Maltese.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Maltese.png; sourceTree = "<group>"; };
+		9657B6D61CF6EBD500B1EFE0 /* Mikeneko.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Mikeneko.png; sourceTree = "<group>"; };
+		9657B6D71CF6EBD500B1EFE0 /* Miniature Dachshund.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Miniature Dachshund.png"; sourceTree = "<group>"; };
+		9657B6D81CF6EBD500B1EFE0 /* Munchkin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Munchkin.png; sourceTree = "<group>"; };
+		9657B6D91CF6EBD500B1EFE0 /* Persian.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Persian.png; sourceTree = "<group>"; };
+		9657B6DA1CF6EBD500B1EFE0 /* Pug.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Pug.png; sourceTree = "<group>"; };
+		9657B6DB1CF6EBD500B1EFE0 /* Russian Blue.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Russian Blue.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,8 +82,27 @@
 				9657B6C41CF6CAAB00B1EFE0 /* Assets.xcassets */,
 				9657B6C61CF6CAAB00B1EFE0 /* LaunchScreen.storyboard */,
 				9657B6C91CF6CAAB00B1EFE0 /* Info.plist */,
+				9657B6D11CF6EBD500B1EFE0 /* animal_images */,
 			);
 			path = UITableViewPlactice;
+			sourceTree = "<group>";
+		};
+		9657B6D11CF6EBD500B1EFE0 /* animal_images */ = {
+			isa = PBXGroup;
+			children = (
+				9657B6D21CF6EBD500B1EFE0 /* American Shorthair.png */,
+				9657B6D31CF6EBD500B1EFE0 /* Chihuahua.png */,
+				9657B6D41CF6EBD500B1EFE0 /* Corgi.png */,
+				9657B6D51CF6EBD500B1EFE0 /* Maltese.png */,
+				9657B6D61CF6EBD500B1EFE0 /* Mikeneko.png */,
+				9657B6D71CF6EBD500B1EFE0 /* Miniature Dachshund.png */,
+				9657B6D81CF6EBD500B1EFE0 /* Munchkin.png */,
+				9657B6D91CF6EBD500B1EFE0 /* Persian.png */,
+				9657B6DA1CF6EBD500B1EFE0 /* Pug.png */,
+				9657B6CF1CF6E8D000B1EFE0 /* pug.png */,
+				9657B6DB1CF6EBD500B1EFE0 /* Russian Blue.png */,
+			);
+			path = animal_images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -123,8 +164,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9657B6E31CF6EBD500B1EFE0 /* Persian.png in Resources */,
+				9657B6E21CF6EBD500B1EFE0 /* Munchkin.png in Resources */,
 				9657B6C81CF6CAAB00B1EFE0 /* LaunchScreen.storyboard in Resources */,
+				9657B6DF1CF6EBD500B1EFE0 /* Maltese.png in Resources */,
+				9657B6E41CF6EBD500B1EFE0 /* Pug.png in Resources */,
+				9657B6DC1CF6EBD500B1EFE0 /* American Shorthair.png in Resources */,
 				9657B6C51CF6CAAB00B1EFE0 /* Assets.xcassets in Resources */,
+				9657B6DE1CF6EBD500B1EFE0 /* Corgi.png in Resources */,
+				9657B6E01CF6EBD500B1EFE0 /* Mikeneko.png in Resources */,
+				9657B6E11CF6EBD500B1EFE0 /* Miniature Dachshund.png in Resources */,
+				9657B6E51CF6EBD500B1EFE0 /* Russian Blue.png in Resources */,
+				9657B6D01CF6E8D000B1EFE0 /* pug.png in Resources */,
+				9657B6DD1CF6EBD500B1EFE0 /* Chihuahua.png in Resources */,
 				9657B6C31CF6CAAB00B1EFE0 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
